@@ -3,7 +3,7 @@ GitHub Token Key information
 Edu_GIT > Token Key information
 
 idbae@ark.kr 계정 토큰
-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
+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
 
 
 eng.bid@gmail.com 계정 토큰 (사용하지 않기)
