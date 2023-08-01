@@ -25,3 +25,6 @@ const test = (a,b,c) => {a,b,c}
 
 
 const test = (a, b, c) => a+b+c
+
+//함수선언 방법 78
+//사실 없다
